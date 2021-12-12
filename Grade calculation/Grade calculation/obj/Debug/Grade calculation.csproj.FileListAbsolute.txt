@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Grade calculation\Grade calculation\bin\Debug\Grade calculation.exe.config
+C:\Users\Asus\source\repos\Grade calculation\Grade calculation\bin\Debug\Grade calculation.exe
+C:\Users\Asus\source\repos\Grade calculation\Grade calculation\bin\Debug\Grade calculation.pdb
+C:\Users\Asus\source\repos\Grade calculation\Grade calculation\obj\Debug\Grade calculation.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Grade calculation\Grade calculation\obj\Debug\Grade calculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Grade calculation\Grade calculation\obj\Debug\Grade_calculation.Form1.resources
+C:\Users\Asus\source\repos\Grade calculation\Grade calculation\obj\Debug\Grade_calculation.Properties.Resources.resources
+C:\Users\Asus\source\repos\Grade calculation\Grade calculation\obj\Debug\Grade calculation.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Grade calculation\Grade calculation\obj\Debug\Grade calculation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Grade calculation\Grade calculation\obj\Debug\Grade calculation.exe
+C:\Users\Asus\source\repos\Grade calculation\Grade calculation\obj\Debug\Grade calculation.pdb
