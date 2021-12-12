@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\Lab-04\Lab-04\obj\Debug\Lab-04.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Lab-04\Lab-04\obj\Debug\Lab-04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Lab-04\Lab-04\obj\Debug\Lab_04.Form1.resources
+C:\Users\Asus\source\repos\Lab-04\Lab-04\obj\Debug\Lab_04.Properties.Resources.resources
+C:\Users\Asus\source\repos\Lab-04\Lab-04\obj\Debug\Lab-04.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Lab-04\Lab-04\obj\Debug\Lab-04.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab-04\Lab-04\bin\Debug\Lab-04.exe.config
+C:\Users\Asus\source\repos\Lab-04\Lab-04\bin\Debug\Lab-04.exe
+C:\Users\Asus\source\repos\Lab-04\Lab-04\bin\Debug\Lab-04.pdb
+C:\Users\Asus\source\repos\Lab-04\Lab-04\obj\Debug\Lab-04.exe
+C:\Users\Asus\source\repos\Lab-04\Lab-04\obj\Debug\Lab-04.pdb
