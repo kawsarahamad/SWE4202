@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\LAB-05\LAB-05\bin\Debug\LAB-05.exe.config
+C:\Users\Asus\source\repos\LAB-05\LAB-05\bin\Debug\LAB-05.exe
+C:\Users\Asus\source\repos\LAB-05\LAB-05\bin\Debug\LAB-05.pdb
+C:\Users\Asus\source\repos\LAB-05\LAB-05\obj\Debug\LAB-05.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\LAB-05\LAB-05\obj\Debug\LAB-05.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\LAB-05\LAB-05\obj\Debug\LAB_05.Form1.resources
+C:\Users\Asus\source\repos\LAB-05\LAB-05\obj\Debug\LAB_05.Properties.Resources.resources
+C:\Users\Asus\source\repos\LAB-05\LAB-05\obj\Debug\LAB-05.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\LAB-05\LAB-05\obj\Debug\LAB-05.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\LAB-05\LAB-05\obj\Debug\LAB-05.exe
+C:\Users\Asus\source\repos\LAB-05\LAB-05\obj\Debug\LAB-05.pdb
