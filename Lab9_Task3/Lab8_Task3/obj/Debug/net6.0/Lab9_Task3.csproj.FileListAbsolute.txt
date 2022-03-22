@@ -1,0 +1,15 @@
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\bin\Debug\net6.0\Lab9_Task3.exe
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\bin\Debug\net6.0\Lab9_Task3.deps.json
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\bin\Debug\net6.0\Lab9_Task3.runtimeconfig.json
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\bin\Debug\net6.0\Lab9_Task3.dll
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\bin\Debug\net6.0\ref\Lab9_Task3.dll
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\bin\Debug\net6.0\Lab9_Task3.pdb
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\obj\Debug\net6.0\Lab9_Task3.csproj.AssemblyReference.cache
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\obj\Debug\net6.0\Lab9_Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\obj\Debug\net6.0\Lab9_Task3.AssemblyInfoInputs.cache
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\obj\Debug\net6.0\Lab9_Task3.AssemblyInfo.cs
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\obj\Debug\net6.0\Lab9_Task3.csproj.CoreCompileInputs.cache
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\obj\Debug\net6.0\Lab9_Task3.dll
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\obj\Debug\net6.0\ref\Lab9_Task3.dll
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\obj\Debug\net6.0\Lab9_Task3.pdb
+D:\Swe 4202\Lab8_Task3\Lab8_Task3\obj\Debug\net6.0\Lab9_Task3.genruntimeconfig.cache
