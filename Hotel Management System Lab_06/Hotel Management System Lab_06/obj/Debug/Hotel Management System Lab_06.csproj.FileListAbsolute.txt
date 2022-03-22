@@ -1,0 +1,11 @@
+D:\Swe 4202\Hotel Management System Lab_06\Hotel Management System Lab_06\obj\Debug\Hotel Management System Lab_06.csproj.AssemblyReference.cache
+D:\Swe 4202\Hotel Management System Lab_06\Hotel Management System Lab_06\obj\Debug\Hotel Management System Lab_06.csproj.SuggestedBindingRedirects.cache
+D:\Swe 4202\Hotel Management System Lab_06\Hotel Management System Lab_06\obj\Debug\Hotel_Management_System_Lab_06.Form1.resources
+D:\Swe 4202\Hotel Management System Lab_06\Hotel Management System Lab_06\obj\Debug\Hotel_Management_System_Lab_06.Properties.Resources.resources
+D:\Swe 4202\Hotel Management System Lab_06\Hotel Management System Lab_06\obj\Debug\Hotel Management System Lab_06.csproj.GenerateResource.cache
+D:\Swe 4202\Hotel Management System Lab_06\Hotel Management System Lab_06\obj\Debug\Hotel Management System Lab_06.csproj.CoreCompileInputs.cache
+D:\Swe 4202\Hotel Management System Lab_06\Hotel Management System Lab_06\bin\Debug\Hotel Management System Lab_06.exe.config
+D:\Swe 4202\Hotel Management System Lab_06\Hotel Management System Lab_06\bin\Debug\Hotel Management System Lab_06.exe
+D:\Swe 4202\Hotel Management System Lab_06\Hotel Management System Lab_06\bin\Debug\Hotel Management System Lab_06.pdb
+D:\Swe 4202\Hotel Management System Lab_06\Hotel Management System Lab_06\obj\Debug\Hotel Management System Lab_06.exe
+D:\Swe 4202\Hotel Management System Lab_06\Hotel Management System Lab_06\obj\Debug\Hotel Management System Lab_06.pdb
