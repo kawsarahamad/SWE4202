@@ -1,0 +1,11 @@
+D:\Swe 4202\LAB_10_file_handling\LAB_10_file_handling\bin\Debug\LAB_10_file_handling.exe.config
+D:\Swe 4202\LAB_10_file_handling\LAB_10_file_handling\bin\Debug\LAB_10_file_handling.exe
+D:\Swe 4202\LAB_10_file_handling\LAB_10_file_handling\bin\Debug\LAB_10_file_handling.pdb
+D:\Swe 4202\LAB_10_file_handling\LAB_10_file_handling\obj\Debug\LAB_10_file_handling.csproj.SuggestedBindingRedirects.cache
+D:\Swe 4202\LAB_10_file_handling\LAB_10_file_handling\obj\Debug\LAB_10_file_handling.Form1.resources
+D:\Swe 4202\LAB_10_file_handling\LAB_10_file_handling\obj\Debug\LAB_10_file_handling.Properties.Resources.resources
+D:\Swe 4202\LAB_10_file_handling\LAB_10_file_handling\obj\Debug\LAB_10_file_handling.csproj.GenerateResource.cache
+D:\Swe 4202\LAB_10_file_handling\LAB_10_file_handling\obj\Debug\LAB_10_file_handling.csproj.CoreCompileInputs.cache
+D:\Swe 4202\LAB_10_file_handling\LAB_10_file_handling\obj\Debug\LAB_10_file_handling.exe
+D:\Swe 4202\LAB_10_file_handling\LAB_10_file_handling\obj\Debug\LAB_10_file_handling.pdb
+D:\Swe 4202\LAB_10_file_handling\LAB_10_file_handling\obj\Debug\LAB_10_file_handling.csproj.AssemblyReference.cache
