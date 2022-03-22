@@ -1,0 +1,11 @@
+D:\Swe 4202\LAB_11_Tic_Tac_Toe\LAB_11_Tic_Tac_Toe\bin\Debug\LAB_11_Tic_Tac_Toe.exe.config
+D:\Swe 4202\LAB_11_Tic_Tac_Toe\LAB_11_Tic_Tac_Toe\bin\Debug\LAB_11_Tic_Tac_Toe.exe
+D:\Swe 4202\LAB_11_Tic_Tac_Toe\LAB_11_Tic_Tac_Toe\bin\Debug\LAB_11_Tic_Tac_Toe.pdb
+D:\Swe 4202\LAB_11_Tic_Tac_Toe\LAB_11_Tic_Tac_Toe\obj\Debug\LAB_11_Tic_Tac_Toe.csproj.AssemblyReference.cache
+D:\Swe 4202\LAB_11_Tic_Tac_Toe\LAB_11_Tic_Tac_Toe\obj\Debug\LAB_11_Tic_Tac_Toe.csproj.SuggestedBindingRedirects.cache
+D:\Swe 4202\LAB_11_Tic_Tac_Toe\LAB_11_Tic_Tac_Toe\obj\Debug\LAB_11_Tic_Tac_Toe.Form1.resources
+D:\Swe 4202\LAB_11_Tic_Tac_Toe\LAB_11_Tic_Tac_Toe\obj\Debug\LAB_11_Tic_Tac_Toe.Properties.Resources.resources
+D:\Swe 4202\LAB_11_Tic_Tac_Toe\LAB_11_Tic_Tac_Toe\obj\Debug\LAB_11_Tic_Tac_Toe.csproj.GenerateResource.cache
+D:\Swe 4202\LAB_11_Tic_Tac_Toe\LAB_11_Tic_Tac_Toe\obj\Debug\LAB_11_Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+D:\Swe 4202\LAB_11_Tic_Tac_Toe\LAB_11_Tic_Tac_Toe\obj\Debug\LAB_11_Tic_Tac_Toe.exe
+D:\Swe 4202\LAB_11_Tic_Tac_Toe\LAB_11_Tic_Tac_Toe\obj\Debug\LAB_11_Tic_Tac_Toe.pdb
